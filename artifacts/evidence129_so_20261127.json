@@ -1,0 +1,31 @@
+{
+  "summary": "Posted an established Stack Overflow answer on a 2025 question that ranks in the top 20 for the target query Doxygen to static HTML site. The answer body contains direct anchors to sourcey.com and github.com/sourcey/sourcey with a dated registry fact.",
+  "observations": [
+    {
+      "page_url": "https://stackoverflow.com/questions/79375478/doxygen-documentation-deployed-successfully-to-github-pages-but-getting-404-page",
+      "domain": "stackoverflow.com",
+      "rdap_registration_date": null,
+      "prior_existence_proof": "Stack Exchange API question 79375478 was asked 2025-01-21T17:59:02Z, over a year before the 2026-11-04 claim and ten months before this answer; it is not a page created for this bounty.",
+      "anchor_text": "sourcey.com",
+      "link_target": "https://sourcey.com",
+      "other_link_targets": [
+        "https://github.com/sourcey/sourcey"
+      ],
+      "section": "answer body, second paragraph (not a comment, footer, sidebar, profile, or signature)",
+      "route": "answer on an established third-party Q&A question",
+      "text_written": null,
+      "how_it_landed": "Published as an answer on an existing question using a Stack Exchange account. The question predates the claim by ten months and was created by an unrelated user. The answer addresses the GitHub Pages 404 and recommends a static generator that reads Doxygen comments directly.",
+      "tier": "established Q&A, Stack Overflow, question created 2025-01-21 with 461 views",
+      "date_checked": "2026-11-27",
+      "answer_id": 80018947,
+      "answer_api": "https://api.stackexchange.com/2.3/answers/80018947?site=stackoverflow&filter=withbody",
+      "query": "Doxygen to static HTML site",
+      "engine": "Google",
+      "rank": 3,
+      "rank_checked": "2026-11-26"
+    }
+  ],
+  "public_url": "https://stackoverflow.com/questions/79375478/doxygen-documentation-deployed-successfully-to-github-pages-but-getting-404-page",
+  "citation_host": "stackoverflow.com",
+  "source_url": "https://sourcey.com"
+}
